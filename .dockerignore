@@ -1,0 +1,13 @@
+
+/dist
+/e2e
+/docs
+*.zip
+
+node_modules/
+
+Dockerfile
+
+.git
+.dockerignore
+.gitignore
